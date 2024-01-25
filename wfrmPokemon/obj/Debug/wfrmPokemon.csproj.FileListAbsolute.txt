@@ -1,0 +1,16 @@
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\wfrmPokemon\wfrmPokemon\bin\Debug\wfrmPokemon.exe.config
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\wfrmPokemon\wfrmPokemon\bin\Debug\wfrmPokemon.exe
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\wfrmPokemon\wfrmPokemon\bin\Debug\wfrmPokemon.pdb
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\wfrmPokemon\wfrmPokemon\obj\Debug\wfrmPokemon.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\wfrmPokemon\wfrmPokemon\obj\Debug\wfrmPokemon.Form1.resources
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\wfrmPokemon\wfrmPokemon\obj\Debug\wfrmPokemon.Properties.Resources.resources
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\wfrmPokemon\wfrmPokemon\obj\Debug\wfrmPokemon.csproj.GenerateResource.cache
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\wfrmPokemon\wfrmPokemon\obj\Debug\wfrmPokemon.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\wfrmPokemon\wfrmPokemon\obj\Debug\wfrmPokemon.exe
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\wfrmPokemon\wfrmPokemon\obj\Debug\wfrmPokemon.pdb
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\wfrmPokemon\wfrmPokemon\bin\Debug\dominio1.dll
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\wfrmPokemon\wfrmPokemon\bin\Debug\dominio1.pdb
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\wfrmPokemon\wfrmPokemon\obj\Debug\wfrmPokemon.csproj.CopyComplete
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\wfrmPokemon\wfrmPokemon\bin\Debug\negocio1.dll
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\wfrmPokemon\wfrmPokemon\bin\Debug\negocio1.pdb
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\wfrmPokemon\wfrmPokemon\obj\Debug\wfrmPokemon.frmAltaPokemon.resources

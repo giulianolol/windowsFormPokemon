@@ -1,0 +1,6 @@
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\wfrmPokemon\dominio1\bin\Debug\dominio1.dll
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\wfrmPokemon\dominio1\bin\Debug\dominio1.pdb
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\wfrmPokemon\dominio1\obj\Debug\dominio1.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\wfrmPokemon\dominio1\obj\Debug\dominio1.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\wfrmPokemon\dominio1\obj\Debug\dominio1.dll
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\wfrmPokemon\dominio1\obj\Debug\dominio1.pdb

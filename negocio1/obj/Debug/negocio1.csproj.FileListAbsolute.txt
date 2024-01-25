@@ -1,0 +1,9 @@
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\wfrmPokemon\negocio1\bin\Debug\negocio1.dll
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\wfrmPokemon\negocio1\bin\Debug\negocio1.pdb
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\wfrmPokemon\negocio1\bin\Debug\dominio1.dll
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\wfrmPokemon\negocio1\bin\Debug\dominio1.pdb
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\wfrmPokemon\negocio1\obj\Debug\negocio1.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\wfrmPokemon\negocio1\obj\Debug\negocio1.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\wfrmPokemon\negocio1\obj\Debug\negocio1.csproj.CopyComplete
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\wfrmPokemon\negocio1\obj\Debug\negocio1.dll
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\wfrmPokemon\negocio1\obj\Debug\negocio1.pdb
