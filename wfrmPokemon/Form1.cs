@@ -23,14 +23,21 @@ namespace wfrmPokemon
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            PokemonNegocio negocio = new PokemonNegocio();
-            listaPokemon = negocio.Listar();
-            dgvPokemon.DataSource = negocio.Listar();
-            dgvPokemon.Columns["UrlImagen"].Visible = false;
-            cargarImagen(listaPokemon[0].UrlImagen);
-            ElementoNegocio elemento = new ElementoNegocio();
-            //listElemento = elemento.Listar();
-            //dgvAbajo.DataSource = elemento.Listar()
+            try
+            {
+                PokemonNegocio negocio = new PokemonNegocio();
+                listaPokemon = negocio.Listar();
+                dgvPokemon.DataSource = negocio.Listar();
+                dgvPokemon.Columns["UrlImagen"].Visible = false;
+                cargarImagen(listaPokemon[0].UrlImagen);
+                ElementoNegocio elemento = new ElementoNegocio();
+                //listElemento = elemento.Listar();
+                //dgvAbajo.DataSource = elemento.Listar()
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.ToString());
+            }
         }
 
         private void dgvPokemon_CellContentClick(object sender, DataGridViewCellEventArgs e)

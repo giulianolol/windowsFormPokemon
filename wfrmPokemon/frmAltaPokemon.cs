@@ -8,7 +8,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using dominio1;
 using negocio1;
 
 namespace wfrmPokemon
@@ -33,7 +32,7 @@ namespace wfrmPokemon
 
                 negocio.Agregar(nuevoPokemon);
                 MessageBox.Show("Agregado exitosamente");
-                Close();
+                Close(); 
             }
             catch (Exception ex)
             {

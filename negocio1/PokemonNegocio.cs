@@ -34,7 +34,10 @@ namespace wfrmPokemon
                     aux.Numero = (int)lector["Numero"];
                     aux.Nombre = (string)lector["Nombre"];
                     aux.Descripcion = (string)lector["Descripcion"];
-                    aux.UrlImagen = (string)lector["UrlImagen"];
+
+                    if (!(lector["UrlImagen"] is DBNull))
+                        aux.UrlImagen = (string)lector["UrlImagen"];
+
                     aux.Tipo = new Elemento();
                     aux.Tipo.Descripcion = (string)lector["Tipo"];
                     aux.Debilidad = new Elemento();
@@ -58,7 +61,9 @@ namespace wfrmPokemon
             
             try
             {
-                Datos.SetearConsulta("insert into POKEMONS (Numero, Nombre,Descripcion,Activo)values("+Nuevo.Numero + ",'"+ Nuevo.Nombre + "','"+Nuevo.Descripcion+ "',1)");
+                Datos.SetearConsulta("insert into POKEMONS (Numero, Nombre,Descripcion,Activo, IdTipo, IdDebilidad)values("+Nuevo.Numero + ",'"+ Nuevo.Nombre + "','"+Nuevo.Descripcion+ "',1,@idTipo, @idDebilidad)");
+                Datos.setearParametro("@idTipo", Nuevo.Tipo.Id);
+                Datos.setearParametro("@idDebilidad", Nuevo.Debilidad.Id);
                 Datos.ejecutarAccion();
             }
             catch (Exception ex)
